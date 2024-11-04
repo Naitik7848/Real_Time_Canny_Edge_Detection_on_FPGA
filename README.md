@@ -1,6 +1,6 @@
 # Real-Time Canny Edge Detection with OV7670 Video Streaming
 
-This project demonstrates a real-time implementation of the Canny edge detection algorithm using the OV7670 camera module on the Nexys-A7 FPGA. Developed as part of a summer internship with teammates Gaurav and Naitik, and under the guidance of Dr. Ankur Changla, the project aims to explore hardware-based computer vision applications. We also explored the potential for ASIC implementation for future projects.
+This project demonstrates a real-time implementation of the Canny edge detection algorithm using the OV7670 camera module on the Nexys-A7 FPGA. Developed as part of a summer internship with teammates Vedant and Gaurav, and under the guidance of Dr. Ankur Changla, the project aims to explore hardware-based computer vision applications. We also explored the potential for ASIC implementation for future projects.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -48,7 +48,7 @@ The Canny edge detection algorithm is a multi-step process:
 ## Demo Video
 
 You can see the working architecture and output demonstration in the video below:
-- [Demo Video Link](#) *(Replace with the actual link to the video)*
+- [https://www.youtube.com/watch?v=_Ix6b2beu2g](#) *(Replace with the actual link to the video)*
 
 ## Usage
 
