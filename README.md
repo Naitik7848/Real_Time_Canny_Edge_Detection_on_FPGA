@@ -48,6 +48,12 @@ The Canny edge detection algorithm is a multi-step process:
 ## Demo Video
 
 You can see the working architecture and output demonstration in the video below:
+## Demo Video
+
+Click the thumbnail below to watch the demonstration of the real-time Canny edge detection system in action:
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 - [https://www.youtube.com/watch?v=_Ix6b2beu2g](#) *(Replace with the actual link to the video)*
 
 ## Usage
